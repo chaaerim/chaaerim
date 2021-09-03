@@ -1,6 +1,6 @@
-# Hi 👋
-# 🌱 I’m currently learning computer engineering ! 
-# 💬 Ask me about Github
+###### Hi 👋
+###### 🌱 I’m currently learning computer engineering ! 
+###### 💬 Ask me about Github
 
 
 <!--
