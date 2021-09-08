@@ -2,7 +2,7 @@
 ###### 🌱 I’m currently learning computer engineering ! 
 ###### ✨ I want to be a front-end developer ! !
 ###### 💬 Ask me about Github
-
+###### https://chaaerim.github.io/web2/
 
 <!--
 **chaaerim/chaaerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
