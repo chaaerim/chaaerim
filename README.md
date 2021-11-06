@@ -11,8 +11,7 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/ React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
 ##### 👀 how many visitors are viewing my Github ...
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chaaerim)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chaaerim%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 ###### ✨ I want to be a front-end developer ! !
 
