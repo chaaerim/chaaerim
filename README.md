@@ -16,7 +16,7 @@
 ###### ✨ I want to be a front-end developer ! !
 
 ---
-##stats 📊
+## stats 📊
 
 <!--
 **chaaerim/chaaerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
