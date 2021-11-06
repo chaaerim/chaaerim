@@ -1,7 +1,7 @@
 ## Hi I'm chaerim 👐
 
 ##### 🛠️ I'm currenttly working on...
-<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 ##### 🌱 I’m currently learning...! 
 
