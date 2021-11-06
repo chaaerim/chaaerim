@@ -1,13 +1,14 @@
 ## Hi I'm chaerim 👐
 
-#### 🛠️
+##### 🛠️ I'm currenttly working on...
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 ##### 🌱 I’m currently learning...! 
 
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/ React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
 ###### ✨ I want to be a front-end developer ! !
-###### 💬 Ask me about Github
+
 
 <!--
 **chaaerim/chaaerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
