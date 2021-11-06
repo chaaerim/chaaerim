@@ -1,5 +1,10 @@
 ## Hi I'm chaerim 👐
-###### 🌱 I’m currently learning computer engineering ! 
+
+### 🛠️
+
+`### 🌱 I’m currently learning...! <a href="" target="_blank"><img src="https://img.shields.io/badge/
+React-#61DAFB?style=flat-square&logo=React&logoColor=white"/></a>`
+
 ###### ✨ I want to be a front-end developer ! !
 ###### 💬 Ask me about Github
 
