@@ -1,4 +1,4 @@
-###### Hi I'm chaerim 👋
+## Hi I'm chaerim 👐
 ###### 🌱 I’m currently learning computer engineering ! 
 ###### ✨ I want to be a front-end developer ! !
 ###### 💬 Ask me about Github
