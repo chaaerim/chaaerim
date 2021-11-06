@@ -2,9 +2,9 @@
 
 #### 🛠️
 
-#### 🌱 I’m currently learning...! 
+##### 🌱 I’m currently learning...! 
 
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
 ###### ✨ I want to be a front-end developer ! !
 ###### 💬 Ask me about Github
