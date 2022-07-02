@@ -1,8 +1,5 @@
 ## Hi I'm chaerim 👐
 
-#### ✨ I want to be a front-end developer ! !
-
-
 
 ---
 ## stats 📊
