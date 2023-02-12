@@ -10,5 +10,9 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chaaerim&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaaerim&layout=compact)](https://github.com/chaaerim/github-readme-stats)
+</br>
 
+---
 
+### 제가 최근에 작성한 글은요 . . 📝
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaeerim&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=chaeerim)
