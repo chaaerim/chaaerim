@@ -2,6 +2,7 @@
 ---
 #### 💬  Experience
 
+##### [카카오엔터프라이즈](https://kakaoenterprise.com/) 커넥트메시지플랫폼팀 <sub>Web FrontEnd Intern (2023. 05 ~ now)</sub>
 ##### [디프만](https://www.depromeet.com/) 12기 <sub>Web FrontEnd Developer (2022. 09 ~ 2023.01)</sub>
 ##### 신촌연합 IT 창업 동아리 [CEOS](https://www.ceos.or.kr/) • 16기 <sub>FE 운영진 (2022.09 ~ 2023.02)</sub>
 ##### 신촌연합 IT 창업 동아리 [CEOS](https://www.ceos.or.kr/) • 15기 <sub>FE (2022.03 ~ 2022.08)</sub>
