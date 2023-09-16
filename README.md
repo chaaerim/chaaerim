@@ -11,7 +11,7 @@
 
 #### 💻  Projects
 
-##### [이펙티브 기술 면접](https://github.com/effective-tech-interview)-효과적인 기술 면접 대비 플랫폼 <sub>Web FrontEnd Developer (2023. 01 ~ now)</sub>
+##### [이펙티브 기술 면접](https://github.com/effective-tech-interview)-효과적인 기술 면접 대비 플랫폼 <sub>Web FrontEnd Developer (2023. 01 ~ 2023.07)</sub>
 ##### [Toks](https://github.com/depromeet/toks-web)-개발자의 스터디를 돕는 웹 서비스 <sub>Web FrontEnd Developer (2022. 09 ~ now)</sub>
 ##### [KURLY HACK FESTA](https://github.com/KURLY-HACK/kurly-client)-리뷰 구독 및 리뷰 시각화 서비스, 컬리뷰 <sub>Web FrontEnd Developer (2022. 08)</sub> </br>
 ##### [MOMU](https://github.com/Team-Momu)-맛집 큐레이팅 서비스 <sub>Web FrontEnd Developer (2022. 07 ~ 2022.08)</sub> 
