@@ -1,6 +1,6 @@
-###  Front-End Engineer | Chaerim
+### Front-End Engineer | Chaerim
 ---
-#### 💬  Experience
+#### 💬 Experience
 
 ##### [카카오엔터프라이즈](https://kakaoenterprise.com/) 커넥트메시지플랫폼팀 <sub>Web FrontEnd Intern (2023. 05 ~ now)</sub>
 ##### [디프만](https://www.depromeet.com/) 12기 <sub>Web FrontEnd Developer (2022. 09 ~ 2023.01)</sub>
@@ -9,7 +9,7 @@
 
 </br>
 
-#### 💻  Projects
+#### 💻 Projects
 
 ##### [이펙티브 기술 면접](https://github.com/effective-tech-interview)-효과적인 기술 면접 대비 플랫폼 <sub>Web FrontEnd Developer (2023. 01 ~ 2023. 07)</sub>
 ##### [Toks](https://github.com/depromeet/toks-web)-개발자의 스터디를 돕는 웹 서비스 <sub>Web FrontEnd Developer (2022. 09 ~ now)</sub>
