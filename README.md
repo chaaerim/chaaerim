@@ -1,10 +1,12 @@
-### Front-End Engineer | Chaerim
+### Software Engineer | Chaerim
 
 ---
 
 #### 💬 Experience
 
-##### [카카오엔터프라이즈](https://kakaoenterprise.com/) SaaS 개발팀 <sub>Web FrontEnd Intern (2023. 05 ~ now)</sub>
+##### [카카오엔터프라이즈](https://kakaoenterprise.com/) SaaS 개발팀 <sub> Software Engineer (2024. 04 ~ now)</sub>
+
+##### [카카오엔터프라이즈](https://kakaoenterprise.com/) SaaS 개발팀 <sub>Web FrontEnd Intern (2023. 05 ~ 2024. 03)</sub>
 
 ##### [디프만](https://www.depromeet.com/) 12기 <sub>Web FrontEnd Developer (2022. 09 ~ 2023.01)</sub>
 
