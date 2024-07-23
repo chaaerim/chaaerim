@@ -24,8 +24,6 @@
 
 ##### [KURLY HACK FESTA](https://github.com/KURLY-HACK/kurly-client)-리뷰 구독 및 리뷰 시각화 서비스, 컬리뷰 <sub>Web FrontEnd Developer (2022. 08)</sub>
 
-##### [MOMU](https://github.com/Team-Momu)-맛집 큐레이팅 서비스 <sub>Web FrontEnd Developer (2022. 07 ~ 2022.08)</sub> 
-
 
 
 ---
